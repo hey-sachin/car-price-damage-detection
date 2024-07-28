@@ -1,6 +1,3 @@
-
-
-> _Data Mining and Machine Learning Group Coursework_
 # Used Car Price Prediction and Damage Detection of Cars
 
 ## Topic
